@@ -1,3 +1,4 @@
+// revisar codigo).
 // Game: inicio, fin de partida, actualización y bucle principal.
 let gameRunning = false;
 
